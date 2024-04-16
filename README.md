@@ -21,7 +21,7 @@
 - 🌱 I’m currently learning about Design patterns and optimization techiniques. <!-- - 👯 I’m looking to collaborate on --> 
 - 🤔 I’m looking for help with serverless deployment hell.
 - 💬 Ask me just about anything. I am happy to help.
-- 📫 How to reach me: iam.abhishek.choudharys@gmail.com
+- 📫 How to reach me: hmatheus917@gmail.com
 - ⚡ Fun fact: Every time you paint a room, it gets a little bit smaller.
 
 <br/>
