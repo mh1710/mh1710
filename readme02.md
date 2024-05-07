@@ -5,10 +5,11 @@
 
   <img align="right" alt="GIF" src="https://github.com/abhishek-choudharys/blender-projects/blob/main/Plexus/plexus.gif" width="250" height="180" />
   
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🤔 Viciado em novas tecnologias.
 - 🎓 Estudando ADS na FMU.
 - 💼 Trabalhando como desenvolvedor e Cientista de Dados Freelancer.
 - 🌱 Aprendendo mais sobre Clean Code.
+- 👀 Veja meu portfolio e os trabalhos que eu já fiz mais abaixo.
 
 ## Minhas SkillS
 
