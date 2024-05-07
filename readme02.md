@@ -6,11 +6,11 @@
   <img align="right" alt="GIF" src="https://github.com/abhishek-choudharys/blender-projects/blob/main/Plexus/plexus.gif" width="250" height="180" />
   
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando {seu curso} no {faculdade}.
-- 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.
-- 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}
-  
-  ## Minhas SkillS
+- 🎓 Estudando ADS na FMU.
+- 💼 Trabalhando como desenvolvedor e Cientista de Dados Freelancer.
+- 🌱 Aprendendo mais sobre Clean Code.
+
+## Minhas SkillS
 
 **Aplicações e dados**
 
