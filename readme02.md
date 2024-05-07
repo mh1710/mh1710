@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
-
+<p>
 <img align="right" alt="GIF" src="https://github.com/abhishek-choudharys/blender-projects/blob/main/Plexus/plexus.gif" width="350"/>
 ## Sobre mim
 
@@ -7,7 +7,7 @@
 - 🎓 Estudando {seu curso} no {faculdade}.
 - 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.
 - 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
-
+</p>
 ## Minhas Skills
 
 **Aplicações e dados**
