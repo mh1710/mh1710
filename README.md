@@ -17,12 +17,9 @@
 <img align="right" alt="GIF" src="https://github.com/abhishek-choudharys/blender-projects/blob/main/Plexus/plexus.gif" width="350"/>
 
 <!-- ![Visits badge](https://visitor-badge.glitch.me/badge?page_id=abhishek-choudharys.abhishek-choudharys) -->
-- 🔭 I’m currently working as a Software Engineer at BlueOptima.
-- 🌱 I’m currently learning about Design patterns and optimization techiniques. <!-- - 👯 I’m looking to collaborate on --> 
-- 🤔 I’m looking for help with serverless deployment hell.
-- 💬 Ask me just about anything. I am happy to help.
-- 📫 How to reach me: hmatheus917@gmail.com
-- ⚡ Fun fact: Every time you paint a room, it gets a little bit smaller.
+- 🔭 Atualmente sou desenvolvedor freelancer (Trabalhando com desenvolvimento web e construção e implementação de AI)
+- 🌱 Aprendendo sobre clean code.
+- 📫 Como entrar em contato comigo: hmatheus917@gmail.com
 
 <br/>
 <br/>
