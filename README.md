@@ -1,11 +1,11 @@
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
+![](https://komarev.com/ghpvc/?username=mh1710&color=006bed)
 
 
 ## Sobre mim 
 
   <img align="right" alt="GIF" src="https://github.com/abhishek-choudharys/blender-projects/blob/main/Plexus/plexus.gif" width="250" height="180" />
   
-- 🤔 Viciado em novas tecnologias.
+- 🤔 Viciado em Dados.
 - 🎓 Estudando ADS na FMU.
 - 💼 Trabalhando como desenvolvedor e Cientista de Dados Freelancer.
 - 🌱 Aprendendo mais sobre Clean Code.
