@@ -10,6 +10,7 @@
 - 💼 Trabalhando como desenvolvedor e Cientista de Dados Freelancer.
 - 🌱 Aprendendo mais sobre Clean Code.
 - 👀 Veja meu portfolio e os trabalhos que eu já fiz mais abaixo.
+- 
 
 ## Minhas SkillS
 
@@ -48,10 +49,6 @@
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
 
 <br/>
-
-<a href="https://github.com/iuricode" title="Perfil do Iuri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
-</a>
 
 ## Onde me encontrar
 
