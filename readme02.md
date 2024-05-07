@@ -1,8 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
-<img align="right" alt="GIF" src="https://github.com/abhishek-choudharys/blender-projects/blob/main/Plexus/plexus.gif" width="300"/>
+
 
 ## Sobre mim
-
+<img align="right" alt="GIF" src="https://github.com/abhishek-choudharys/blender-projects/blob/main/Plexus/plexus.gif" width="250"/>
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando {seu curso} no {faculdade}.
 - 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.
