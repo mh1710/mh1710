@@ -1,5 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=mh1710&color=006bed)
 
+## Meu Portfólio
 
 ## Sobre mim 
 
@@ -9,7 +10,7 @@
 - 🎓 Estudando ADS na FMU.
 - 💼 Trabalhando como desenvolvedor e Cientista de Dados Freelancer.
 - 🌱 Aprendendo mais sobre Clean Code.
-- 👀 Veja meu portfolio e os trabalhos que eu já fiz mais abaixo.
+- 👀 Veja meu portfólio e os trabalhos que eu já fiz mais abaixo.
 - 
 
 ## Minhas SkillS
