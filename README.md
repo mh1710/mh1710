@@ -12,7 +12,7 @@
 - 🌱 Aprendendo mais sobre Clean Code.
 - 👀 Veja meu portfólio e os trabalhos que eu já fiz mais abaixo. 
 
-## Minhas SkillS
+## Minhas Skills
 
 **Aplicações e dados**
 
