@@ -7,11 +7,10 @@
   <img align="right" alt="GIF" src="https://github.com/abhishek-choudharys/blender-projects/blob/main/Plexus/plexus.gif" width="250" height="180" />
   
 - 🤔 Viciado em Dados.
-- 🎓 Estudando ADS na FMU.
-- 💼 Trabalhando como desenvolvedor e Cientista de Dados Freelancer.
+- 🎓 Vou começar Ciências da Computação na FAM em 2025.
+- 💼 Trabalhando como desenvolvedor Fullstack e Cientista de Dados Freelancer.
 - 🌱 Aprendendo mais sobre Clean Code.
-- 👀 Veja meu portfólio e os trabalhos que eu já fiz mais abaixo.
-- 
+- 👀 Veja meu portfólio e os trabalhos que eu já fiz mais abaixo. 
 
 ## Minhas SkillS
 
