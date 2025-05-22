@@ -4,7 +4,7 @@
 
 ## Sobre mim 
 
-  <img align="right" alt="GIF" src="https://github.com/abhishek-choudharys/blender-projects/blob/main/Plexus/plexus.gif" width="250" height="180" />
+  
   
 - 🤔 Viciado em Front-end e Automações.
 - 🎓 Estudando Engenharia de Software, 1° Termo.
